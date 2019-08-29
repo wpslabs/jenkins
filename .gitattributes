@@ -1,1 +1,1 @@
-config/files filter=git-crypt diff=git-crypt
+config/files.txt filter=git-crypt diff=git-crypt
